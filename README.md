@@ -32,7 +32,7 @@ A physics-based bubble shooter game built in Unity with **dynamic color matching
 ### **1. Prerequisites**
 - Unity 2021.3+ (3D Core template)
 - Basic C# knowledge (for customization)
-- [Optional] Blender 3.0+ (for custom bubble models)
+- Blender 3.0+ (for custom bubble models)
 
 ### **2. Installation**
 ```bash
