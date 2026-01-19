@@ -211,6 +211,12 @@ This project demonstrates:
 
 ---
 
+## 📸 Demo
+
+![Demo GIF](demo.gif)
+
+---
+
 ## 👥 **Contributors**
 
 - [Aleeza Rizwan](https://github.com/its-aleezA)
