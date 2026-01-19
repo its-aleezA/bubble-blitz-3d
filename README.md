@@ -229,13 +229,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Academic Use**: This project was developed for **Computer Graphics (EC-301)** at the National University of Sciences and Technology. Please cite appropriately if used for educational purposes.
 
----
-
 > [!Tip]
 > For the highest score, aim for chain reactions by targeting bubbles that connect multiple same-color groups!
 
----
-
-**Happy Bubble Popping!** 🎮✨
+_**Happy Bubble Popping!** 🎮✨_
 
 *For issues or feature requests, please open an issue on the GitHub repository.*
