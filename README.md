@@ -231,7 +231,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-> 🎯 **Pro Tip**: For the highest score, aim for chain reactions by targeting bubbles that connect multiple same-color groups!
+> [!Tip]
+> For the highest score, aim for chain reactions by targeting bubbles that connect multiple same-color groups!
 
 ---
 
